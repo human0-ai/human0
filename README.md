@@ -34,6 +34,7 @@ What you get out of the box:
 Built for Claude Code, including Claude Code on the web. The reviewer and rules
 work with Codex or any agent too. It's the same setup that runs
 [human0](https://human0.ai) itself — every commit reviewed and merged by AI.
+Read the story: [how we built a company that runs itself](https://human0.ai/blog/how-we-built-a-company-that-runs-itself/).
 
 ## Two ways to use it
 
