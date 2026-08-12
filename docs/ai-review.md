@@ -99,7 +99,7 @@ the author.
 - **Polish is not pushback.** Settle whether the change *belongs* before suggesting how to refine it.
 - **Severity drives the verdict — under auto-merge the floor is higher.** A `blocker`, `major`, or `minor` you'd want fixed before merge → **REQUEST_CHANGES**, filed inline. A `question` you need answered → **REQUEST_CHANGES**. Never attach an open thread to an APPROVE.
 - **Cross-agent corroboration is near-conclusive.** Two independent agents flagging the same defect almost always means file it.
-- **Out-of-scope concerns still count.** Surface them in the body and open a `/.plans/` follow-up if real.
+- **Out-of-scope concerns still count.** Surface them in the body. Don't open a `/.plans/` follow-up — that call belongs to the author and the user.
 - You may **overrule** a sub-agent, but you owe a one-line reason in the body.
 
 ## Sub-agent personas
