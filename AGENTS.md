@@ -84,8 +84,8 @@ still open is `REQUEST_CHANGES`, and that gate blocks the merge until resolved.
 
 **Aim for consensus on every open thread** — fix the issue, or reply with
 reasoning. Push back when you disagree; the reviewer isn't infallible. But don't
-merge through a stalemate: if the reviewer holds firm on a point you can't
-resolve in code, fix it in this PR when you reasonably can — otherwise ask the
+merge through a stalemate: if the reviewer holds firm and you haven't changed
+its mind, fix the point in this PR when you reasonably can — otherwise ask the
 user whether it deserves a follow-up, and only write one if they say yes.
 
 Re-trigger a review after replying with an empty commit:
